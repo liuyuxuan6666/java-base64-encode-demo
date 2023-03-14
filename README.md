@@ -15,7 +15,9 @@ ChineseTranspotationLink/翻译地址：https://www.codedemo.club/java%ef%bc%9ab
 JavaVersion/Java版本: JDK1.8
 
 Before run, you need to run `mvn install` in the project root directory
+
 在开始之前，请在项目根目录运行`mvn install`
 
 Every file can boot independently. Just run the main function in each file.
+
 每个文件都可以单独运行，只需要直接运行文件中的main方法。
