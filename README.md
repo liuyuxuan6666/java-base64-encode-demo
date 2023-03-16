@@ -8,7 +8,7 @@ This repository is a demo of the blog named 'java-base64-encode-and-decode'. In 
 
 OriginalLink/原文地址：https://www.baeldung.com/java-base64-encode-and-decode
 
-ChineseTranspotationLink/翻译地址：https://www.codedemo.club/java%ef%bc%9abase64%e7%bc%96%e7%a0%81%e4%b8%8e%e8%a7%a3%e7%a0%81/
+ChineseTranspotationLink/翻译地址：https://www.codedemo.club/java-base64-encode-decode/
 
 ## How To Boot it/如何启动项目 
 
